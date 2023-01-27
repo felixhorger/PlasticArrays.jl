@@ -1,0 +1,4 @@
+name = "PlasticArrays"
+uuid = "12163f6b-4919-42d8-a765-807b51673360"
+authors = ["Felix Horger <felix.horger@kcl.ac.uk>"]
+version = "0.1.0"
