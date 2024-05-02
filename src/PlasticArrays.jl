@@ -2,6 +2,7 @@
 module PlasticArrays
 	
 	export PlasticArray, mould
+	# TODO: make the plastic arrays locals in this module so that they are not freed, then provide a function to clean up
 
 	struct PlasticArray
 		nbytes::UInt64
